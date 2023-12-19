@@ -1,4 +1,4 @@
-# kasir-aplikasi 💸
+# ApliKasir 👩🧑
 
 ![Group 35](https://github.com/raeiiooo/kasir-aplikasi/assets/123860422/7374e88b-ab20-4da3-a5c1-1732c71568cf)
 
@@ -15,7 +15,7 @@ Repository ini berisi kode sumber untuk aplikasi kasir sederhana yang dikembangk
 4. Run file
 5. Selamat program anda berjalan
 
-   *note: sebelum menjalankan program, buat database baru dan import dahulu file kasiir.sql pada phpmyadmin
+   *note: sebelum menjalankan program, buat database baru dan import dahulu file kasirfix.sql pada phpmyadmin
 
 # How to Use this Application
 
