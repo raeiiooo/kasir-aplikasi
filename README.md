@@ -1,4 +1,4 @@
-# ApliKasir 👩🧑
+# ApliKasir
 
 ![Group 35](https://github.com/raeiiooo/kasir-aplikasi/assets/123860422/7374e88b-ab20-4da3-a5c1-1732c71568cf)
 
